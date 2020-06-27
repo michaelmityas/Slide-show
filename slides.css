@@ -13,7 +13,6 @@ body{
     box-shadow: 10px 10px 15px 10px rgb(63, 63, 63);
     background: url('images/slide-1.jpg') center/cover no-repeat;
     position: relative;
-    transition: 1s;
 }
 
 .btn{
